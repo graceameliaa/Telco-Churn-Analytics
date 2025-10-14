@@ -5,9 +5,13 @@ This repository contains an end-to-end data science project focused on analyzing
 The entire analytics lifecycle is covered, from initial data processing and exploratory analysis to predictive modeling and results visualization.
 
 ⚙️ Tech Stack
+
 	• Database & ETL: SQL Server (for data cleaning, transformation, and analysis)
+	
 	• Business Intelligence: Power BI (for interactive dashboards and customer analytics)
+	
 	• Machine Learning: Python (Pandas, Scikit-learn, imbalanced-learn, Matplotlib, Seaborn)
+	
 	• Development Environment: Google Colab
 
 🏛️ Project Architecture & Workflow
