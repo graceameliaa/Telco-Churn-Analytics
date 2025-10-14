@@ -32,6 +32,8 @@ From the Customer Analytics Dashboard:
 
 From the Churn Prediction Dashboard:
 
+![Churn Prediction Dashboard: An analytical deep-dive into the key drivers of churn, identifying high-risk customer segments based on contract type, user demographic, etc to inform targeted retention strategies.](https://github.com/graceameliaa/Telco-Churn-Analytics/blob/main/images/Dashboard_Prediction_Churn.png)
+
 	• Contract Flexibility is the Biggest Churn Risk: Contract Type is the most powerful indicator of churn. Customers on a Month-to-Month contract are drastically more likely to churn. Retention efforts should be laser-focused on converting these customers to longer-term plans, perhaps through targeted promotional offers.
 	• Gender as a Predictive Signal: When analyzing churn predictions by demographic, female customers are identified as a higher-risk segment. This insight enables the marketing team to design targeted retention campaigns aimed specifically at improving engagement and satisfaction among women, potentially saving a significant portion of the revenue lost to churn.
 
@@ -49,7 +51,11 @@ The winning model was: Random Forest with SMOTE (Data Balancing) and Hyperparame
 
     accuracy                           0.82      1202
 
-• Key Churn Drivers (Feature Importance): The model identified the following factors as the most significant predictors of churn. This tells the business where to focus their retention efforts.
+• Key Churn Drivers (Feature Importance): 
+
+The model identified the following factors as the most significant predictors of churn. This tells the business where to focus their retention efforts.
+
+![Key Features](https://github.com/graceameliaa/Telco-Churn-Analytics/blob/main/images/Key_Features.png)
 
 🚀 How to Use This Project
 
