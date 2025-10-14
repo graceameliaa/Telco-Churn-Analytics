@@ -1,5 +1,6 @@
 # Telco Customer Churn Analytics & Prediction
 📌 Introduction
+
 This repository contains an end-to-end data science project focused on analyzing and predicting customer churn for a telecommunications company. The project addresses the critical business need to identify customers at high risk of leaving, understand the key drivers behind their decision, and provide actionable insights for retention strategies.
 
 The entire analytics lifecycle is covered, from initial data processing and exploratory analysis to predictive modeling and results visualization.
