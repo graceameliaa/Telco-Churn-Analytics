@@ -62,4 +62,5 @@ The winning model was: Random Forest with SMOTE (Data Balancing) and Hyperparame
 	• Deeper Analysis: Perform a customer lifetime value (CLV) analysis to prioritize retention efforts on high-value customers.
 
 🙏 Acknowledgements
+
 The dataset used for this project is a public dataset sourced from Kaggle. You can find the original dataset [here](https://www.kaggle.com/datasets/nguyenduongthanhthuy/telecom-churn-dataset/data).
