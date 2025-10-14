@@ -34,6 +34,7 @@ From the Churn Prediction Dashboard:
 	• Gender as a Predictive Signal: When analyzing churn predictions by demographic, female customers are identified as a higher-risk segment. This insight enables the marketing team to design targeted retention campaigns aimed specifically at improving engagement and satisfaction among women, potentially saving a significant portion of the revenue lost to churn.
 
 🤖 Machine Learning Model Performance
+
 After experimenting with four different modeling approaches, the final model was selected based on its superior ability to identify customers who are truly at risk of churning (optimizing for Recall).
 
 The winning model was: Random Forest with SMOTE (Data Balancing) and Hyperparameter Tuning.
