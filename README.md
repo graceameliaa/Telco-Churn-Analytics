@@ -71,7 +71,7 @@ Next, run the Jupyter Notebook to train the predictive model and generate predic
 	2. Data Source: The notebook connects directly to the SQL database and uses:
 		• view_ChurnData for training and testing the model.
 		• view_JoinData as the "new" data for generating predictions.
-	5. Output: The script will produce a file named Churned_Only_Prediction.csv, which contains a list of customers the model predicts will churn.
+	3. Output: The script will produce a file named Churned_Only_Prediction.csv, which contains a list of customers the model predicts will churn.
 
 3. Visualization (Power BI)
 
