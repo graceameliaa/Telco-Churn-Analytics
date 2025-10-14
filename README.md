@@ -53,7 +53,7 @@ The winning model was: Random Forest with SMOTE (Data Balancing) and Hyperparame
 
 	1. Database: Execute the SQL scripts in the /sql_scripts folder in numerical order to create and populate the database.
 	2. Power BI: Open the .pbix file located in the /powerbi_dashboard folder. You may need to update the data source to point to your local SQL Server instance.
-	3. Machine Learning: Run the Churn_Prediction_Optimized.ipynb notebook located in the /notebooks folder. Ensure you have all the required Python libraries installed from requirements.txt.
+	3. Machine Learning: Run the Final_Churn_Prediction.ipynb notebook located in the /notebooks folder.
 
 🔮 Future Improvements
 
