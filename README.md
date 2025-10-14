@@ -24,6 +24,8 @@ The project follows a structured, multi-stage workflow:
 
 From the Customer Analytics Dashboard:
 
+![Customer Analytics Dashboard: A summary of the customer base, providing key business KPIs, demographic distributions, and service adoption rates for strategic analysis.](https://github.com/graceameliaa/Telco-Churn-Analytics/blob/main/images/Dashboard_Summary_Churn.png)
+
 	• Competitor Pressure is the Main Reason for Leaving: The primary driver for churn is "Competitor", with customers citing reasons like "competitor had better devices" or "competitor made better offer." This is a direct signal to the marketing and strategy teams to re-evaluate pricing, promotions, and product positioning in the market.
 	• Age as a Key Demographic Indicator: Analysis of customer demographics reveals a key risk segment: customers aged 50 and above exhibit a significantly higher churn rate, pointing to a need for retention strategies focused on this older demographic.
 	• Service Type Matters: Customers using Fiber Optic internet service show a notably higher churn rate. This could point to potential issues with service reliability, pricing perception, or the customer experience for this specific, high-speed product.
