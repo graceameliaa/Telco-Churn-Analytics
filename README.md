@@ -21,6 +21,7 @@ The project follows a structured, multi-stage workflow:
 	4. Results Visualization: The model's predictions and feature importance are visualized to provide clear, actionable insights into the key drivers of churn.
 
 📊 Key Insights from Power BI Dashboards
+
 From the Customer Analytics Dashboard:
 
 	• Competitor Pressure is the Main Reason for Leaving: The primary driver for churn is "Competitor", with customers citing reasons like "competitor had better devices" or "competitor made better offer." This is a direct signal to the marketing and strategy teams to re-evaluate pricing, promotions, and product positioning in the market.
